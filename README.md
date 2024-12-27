@@ -9,6 +9,8 @@ Paixões:
 - Games
 - Web
 - APIs
+- Full-Stack
+- Embarcados
 
 <!--
 **jonatasdasilva/jonatasdasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
